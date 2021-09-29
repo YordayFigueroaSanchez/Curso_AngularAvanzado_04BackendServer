@@ -1,0 +1,23 @@
+{
+  "name": "Curso_AngularAvanzado_04BackendServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YordayFigueroaSanchez/Curso_AngularAvanzado_04BackendServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YordayFigueroaSanchez/Curso_AngularAvanzado_04BackendServer/issues"
+  },
+  "homepage": "https://github.com/YordayFigueroaSanchez/Curso_AngularAvanzado_04BackendServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
